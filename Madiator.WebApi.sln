@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madiator.WebApi", "Madiator.WebApi\Madiator.WebApi.csproj", "{92112CAF-BAED-4212-9712-1B79DDC57F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92112CAF-BAED-4212-9712-1B79DDC57F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92112CAF-BAED-4212-9712-1B79DDC57F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92112CAF-BAED-4212-9712-1B79DDC57F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92112CAF-BAED-4212-9712-1B79DDC57F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EADE1D3-C742-4720-A652-F67F21D0168F}
+	EndGlobalSection
+EndGlobal

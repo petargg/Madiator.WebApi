@@ -1,0 +1,14 @@
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\bin\Debug\netcoreapp2.2\Madiator.WebApi.deps.json
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\bin\Debug\netcoreapp2.2\Madiator.WebApi.runtimeconfig.json
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\bin\Debug\netcoreapp2.2\Madiator.WebApi.runtimeconfig.dev.json
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\bin\Debug\netcoreapp2.2\Madiator.WebApi.dll
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\bin\Debug\netcoreapp2.2\Madiator.WebApi.pdb
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.csprojAssemblyReference.cache
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.RazorAssemblyInfo.cache
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.RazorAssemblyInfo.cs
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.AssemblyInfoInputs.cache
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.AssemblyInfo.cs
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.dll
+C:\Users\Petar.G.Georgiev\source\repos\Madiator.WebApi\Madiator.WebApi\obj\Debug\netcoreapp2.2\Madiator.WebApi.pdb
